@@ -1,0 +1,18 @@
+__author__ = 'admin'
+x = []
+a = 0
+while True:
+    a = raw_input()
+    if a == '.':
+        break
+    else:
+        x.append(int(a))
+odd = 0
+notOdd = 0
+for i in x:
+    if i % 2 == 0:
+        notOdd += 1
+    else:
+        odd += 1
+print "Odd",odd
+print "Not odd",notOdd
