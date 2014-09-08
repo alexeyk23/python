@@ -1,5 +1,4 @@
 __author__ = 'admin'
-x = []
 a = 0
 odd = notOdd = 0
 while True:
