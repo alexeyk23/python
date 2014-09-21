@@ -12,5 +12,7 @@ while True:
                 notOdd += 1
             else:
                 odd += 1
-print "Odd", odd
-print "Not odd", notOdd
+
+
+print "Odd",odd
+print "Not odd",notOdd
