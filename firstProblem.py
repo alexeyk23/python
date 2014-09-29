@@ -1,5 +1,5 @@
 __author__ = 'admin'
-#1. подсчитать количество четных и нечетных
+x = []
 a = 0
 odd = notOdd = 0
 while True:
