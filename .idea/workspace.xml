@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de82d2c1-39a3-436c-ae6f-9538f0646846" name="Default" comment="task5&#10;">
-      <change type="DELETED" beforePath="C:\Users\Администратор\PycharmProjects\pythonProblems\.idea\workspace.xml" afterPath="" />
+    <list default="true" id="de82d2c1-39a3-436c-ae6f-9538f0646846" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <list id="91f70d78-9c0f-40aa-aa5d-0a6c1bab311c" name="Failed commit: Default" comment="task3 commited this Decoration&#10;" />
     <ignored path="pythonProblems.iws" />
@@ -504,7 +504,11 @@
       <created>1412620609187</created>
       <updated>1412620609187</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task5&#10;">
+      <created>1412620682073</created>
+      <updated>1412620682073</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
