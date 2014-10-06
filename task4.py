@@ -40,8 +40,6 @@ class Square(Rectangle):
          # вызов консткуктора базового класса
         Rectangle.__init__(self, x, y, a, a)
 
-
-
 rec = Rectangle(0, 1, 1, 2)
 
 print rec,'\n'
