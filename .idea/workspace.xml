@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de82d2c1-39a3-436c-ae6f-9538f0646846" name="Default" comment="task5&#10;">
+    <list default="true" id="de82d2c1-39a3-436c-ae6f-9538f0646846" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="91f70d78-9c0f-40aa-aa5d-0a6c1bab311c" name="Failed commit: Default" comment="task3 commited this Decoration&#10;" />
@@ -488,7 +488,11 @@
       <created>1412620434510</created>
       <updated>1412620434510</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task5&#10;">
+      <created>1412620510821</created>
+      <updated>1412620510821</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
