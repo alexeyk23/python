@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de82d2c1-39a3-436c-ae6f-9538f0646846" name="Default" comment="task5&#10;" />
+    <list default="true" id="de82d2c1-39a3-436c-ae6f-9538f0646846" name="Default" comment="task5&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <list id="91f70d78-9c0f-40aa-aa5d-0a6c1bab311c" name="Failed commit: Default" comment="task3 commited this Decoration&#10;" />
     <ignored path="pythonProblems.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +36,7 @@
       <file leaf-file-name="task5.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="426" selection-end="426" vertical-scroll-proportion="0.4089347" vertical-offset="0" max-vertical-offset="629">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.080756016" vertical-offset="47" max-vertical-offset="629">
               <folding>
                 <element signature="e#15#24#0" expanded="true" />
               </folding>
@@ -48,9 +50,6 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
-  </component>
-  <component name="Git.Push.Settings">
-    <option name="myUpdateMethod" value="REBASE" />
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -163,6 +162,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -642,14 +642,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="39" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.6274165" vertical-offset="51" max-vertical-offset="11900">
+        <state line="33" column="49" selection-start="2864" selection-end="2864" vertical-scroll-proportion="0.5377856" vertical-offset="255" max-vertical-offset="11696">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="426" selection-end="426" vertical-scroll-proportion="0.4089347" vertical-offset="0" max-vertical-offset="629">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.080756016" vertical-offset="47" max-vertical-offset="629">
           <folding>
             <element signature="e#15#24#0" expanded="true" />
           </folding>
