@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="de82d2c1-39a3-436c-ae6f-9538f0646846" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <list id="91f70d78-9c0f-40aa-aa5d-0a6c1bab311c" name="Failed commit: Default" comment="task3 commited this Decoration&#10;" />
+    <list default="true" id="9ad6b715-175a-48aa-a57c-ae164b10a671" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks.py" />
+    </list>
+    <list id="3ac2f333-c5d8-4f73-9059-22bef307ed72" name="Failed commit: Default" comment="Merge branch 'master' of https://github.com/alexeyk23/python&#10;&#10;Conflicts:&#10;&#9;secondProblem/input.txt&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/firstProblem.py" afterPath="$PROJECT_DIR$/firstProblem.py" />
+    </list>
+    <list id="f0e40216-09b2-4810-a1d1-028accd742ea" name="Failed commit: Default (2)" comment="decorate N">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task3.py" />
+    </list>
+
     <ignored path="pythonProblems.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +32,7 @@
     <SUITE FILE_PATH="coverage/pythonProblems$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1412016602498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProblems$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1412620648003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProblems$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1411325329607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProblems$secondProblem.coverage" NAME="secondProblem Coverage Results" MODIFIED="1410855857985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secondProblem" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -433,7 +446,6 @@
         <item index="0" class="java.lang.String" itemvalue="Python.task5" />
         <item index="1" class="java.lang.String" itemvalue="Python.task4" />
         <item index="2" class="java.lang.String" itemvalue="Python.task3" />
-      </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
