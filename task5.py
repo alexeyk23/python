@@ -12,22 +12,30 @@ def inputDirName(message):
         nameDir = raw_input(message)
     return nameDir
 
-# inpDir = "D:/task4Input/"
-# outputDir = "D:/task4/"
-inpDir = inputDirName("Enter input directory")+"/"
-outputDir = raw_input("Enter output directory")+"/"
-li =[]
-# get list of files in inpDir
-for x in os.listdir(inpDir):
-    if(os.path.isfile(inpDir+x)):
-        li.append(inpDir+x)
+
+inpDir = "D:/task4Input/"
+outputDir = "D:/task4/"
+# inpDir = inputDirName("Enter input directory")+"/"
+# outputDir = raw_input("Enter output directory")+"/"
+# getList of all files in directory
+def getListFiles(inputDir):
+
+    li = []
+    for x in os.listdir(inputDir):
+        if(os.path.isfile(inputDir+x)):
+            li.append(inputDir+x)
+        else:
+            if(os.path.isdir(inputDir+x)):
+                li.extend(getListFiles(inputDir+x+"/"))
+    return li
+listFiles = getListFiles(inpDir)
 
 copyDir = ""
-for x in li:
+for x in listFiles:
     t = os.path.splitext(x)[1]
     if(t != ""):
         copyDir = outputDir+t[1:]
         if (not os.path.exists(copyDir)):
             os.makedirs(copyDir)
         shutil.copy(x, copyDir)
-print li
+print listFiles
